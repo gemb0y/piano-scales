@@ -5,24 +5,30 @@ This poster is a visual reference to help pianists / producers learn and identif
 
 ## How to use this poster
 ### The different versions
-First of all, there are 4 versions of the poster:
-1. Classic version
-    - one in pdf
-    - one in png
-2. Legacy colors version (only the colors are different than the first version, the colors are the same as the old version of this poster)
-    - one in pdf
-    - one in png
+First of all, there are 2 versions of the poster:
+1. English notation (A, B, C, D, F, G)
+2. Solfège notation (Do, Ré, Mi, Fa, Sol, La, Si, Do)
+
+Both versions are available in 2 different colors: classic and legacy.
 
 You can download the version you want from the [Releases](https://github.com/0ranga/piano-scales/releases) tab, in the "Assets" section you will find the corresponding file (you don't need to download the "source code" files).
-
 
 **This is the classic version:**
 
 ![alt text](Piano-Scales.png)
+*English notation*
+
+![alt text](Piano-Scales_solfege.png)
+*Solfège notation*
+
 
 **This is the legacy colors version:**
 
 ![alt text](Piano-Scales_legacy-colors.png)
+*English notation*
+
+![alt text](Piano-Scales_solfege_legacy-colors.png)
+*Solfège notation*
 
 ### Why is it represented around a circle?
 The circle that you see is called the circle of fifths. It highlights the relation between scales by placing the closest scales next to each other.
